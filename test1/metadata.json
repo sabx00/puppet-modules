@@ -1,0 +1,15 @@
+{
+  "name": "santi-test1",
+  "version": "0.1.0",
+  "author": "santi",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/sabx00/puppet-modules",
+  "project_page": "https://github.com/sabx00/puppet-modules",
+  "issues_url": "https://github.com/sabx00/puppet-modules",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
